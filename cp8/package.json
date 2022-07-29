@@ -1,0 +1,20 @@
+{
+  "name": "cp8",
+  "version": "1.0.0",
+  "description": "몽구스를 배우자",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "jBig",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "morgan": "^1.10.0",
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
